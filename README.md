@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
 Submitted by: Quoc Bao Dinh Le
 
@@ -35,7 +35,6 @@ ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Spent majority of the time in the games.js and index.js since I'm still not used to using them.
 
 ## License
